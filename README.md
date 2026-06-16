@@ -143,7 +143,13 @@ El modelo devuelve un salario estimado para cada caso.
 
 ---
 
-## 10. Estructura del Proyecto  
+## 10. Estructura del Proyecto
+📁 Proyecto_Regresion_Lineal  
+│── 📄 Salary_dataset.csv  
+│── 📄 notebook.ipynb  
+│── 📄 README.md  
+
+
 
 
 ---
