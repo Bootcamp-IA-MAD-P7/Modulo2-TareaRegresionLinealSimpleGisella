@@ -1,6 +1,6 @@
 README
 
-# Proyecto 1 — Regresión Lineal Simple  
+# Fundamentos de Regresión Lineal Simple  
 **Predicción de Salario según Años de Experiencia**
 
 ---
